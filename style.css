@@ -59,7 +59,7 @@ width: 300px;
 }
 
 .videos {
-  
+  position: relative;
   flex-direction: column-reverse;
   align-self: auto;
   display: block;
