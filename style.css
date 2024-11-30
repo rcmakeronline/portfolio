@@ -1,9 +1,9 @@
 .video-info
 {
  font-family: Arial, Helvetica, sans-serif;
+
 font-size: large;;
-  
-  color: aliceblue;
+color: aliceblue;
 
 }
 
@@ -23,7 +23,7 @@ padding: 20px;
 }
 
 
-.logo{
+.logo {
 
   position: relative;
   top: 10px;
@@ -41,4 +41,10 @@ width: 30px;
 border-radius: 50px;
 
 
+}
+
+.pe{
+
+  width: 30px;
+  padding: auto;
 }
