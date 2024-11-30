@@ -1,12 +1,16 @@
 .video-info
 {
- font-family: Arial, Helvetica, sans-serif;
-
+font-family: Arial, Helvetica, sans-serif;
 font-size: large;;
-color: aliceblue;
+color: rgb(16, 17, 17);
+padding-top: 10px;
+
+
 
 }
-
+.vertical{
+  background-color: rgb(255, 255, 255);
+}
 
 
 .video-item {
@@ -17,11 +21,15 @@ padding: 20px;
 
 .shadow-lg{
 
-
-  background-image: linear-gradient(rgb(185, 178, 178), rgb(37, 37, 31));
+background-color: aliceblue;
 
 }
 
+.nav{
+
+text-align: center;
+
+}
 
 .logo {
 
@@ -35,16 +43,38 @@ padding: 20px;
 }
 
 
-.desc{
+.float-none{
 
-width: 30px;
-border-radius: 50px;
+width:30px;
+padding-top: 5px;
+right: 50px ;
 
 
 }
+
+.video{
+
+
+  width: 200px;
+  height: 100px;
+  padding-top: 50px;
+
+  left: auto;
+}
+
+
 
 .pe{
 
   width: 30px;
   padding: auto;
 }
+
+
+
+.videovertical{
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 10px;
+}
+
